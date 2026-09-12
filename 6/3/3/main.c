@@ -53,7 +53,7 @@ void generalista(tlista *palabras)
                  }
             else
                 (act->cant)+=1;
-
+    }
 
     fclose(texto);
 }
