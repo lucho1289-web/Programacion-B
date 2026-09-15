@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789483041 source:c:\users\lucho\onedrive\escritorio\prograb2\6\6\6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
